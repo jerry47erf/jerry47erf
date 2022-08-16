@@ -81,9 +81,3 @@
     <img src="https://komarev.com/ghpvc/?username=jerry47erf">
 </a>
 <a href="https://github.com/jerry47erf?tab=followers"><img src="https://img.shields.io/github/followers/jerry47erf?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-## ⚙ Statistics
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jerry47erf&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry47erf&layout=compact&theme=tokyonight"> <br>
