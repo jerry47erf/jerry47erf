@@ -49,6 +49,10 @@
     </a>
 </p>
 
+## ⚙ Statistics
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jerry47erf&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry47erf&layout=compact&theme=tokyonight"> <br>
+
 ## 📊 My Github Stats
 
   <br/>
