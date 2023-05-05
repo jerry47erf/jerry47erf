@@ -70,8 +70,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/priyanshu-rai-72a855247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBqhCckydTiuh5d4TBN97zw%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/RadheKr91545279"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/cujohawk47/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/_priyanshurai_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
